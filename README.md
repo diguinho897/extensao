@@ -51,9 +51,3 @@ O **Leads Tracker** é uma extensão para o Google Chrome que permite aos usuár
 ## Licença
 
 Distribuído sob a licença MIT. Veja o arquivo LICENSE para mais detalhes.
-
----
-
-Este `README.txt` serve para informar aos usuários e colaboradores o que a extensão faz, como usá-la e como contribuir. O formato e o conteúdo podem ser ajustados conforme necessário. 
-
-Se você precisar de mais ajustes ou quiser incluir outras informações, me avise!
