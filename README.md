@@ -1,8 +1,8 @@
-# Leads Tracker - Chrome Extension
+# Agregador de links - Extensão para Chrome
 
 ## Descrição
 
-O **Leads Tracker** é uma extensão para o Google Chrome que permite aos usuários salvar, visualizar e gerenciar URLs. A extensão permite que você adicione URLs manualmente ou diretamente da aba ativa do navegador. Todos os links são armazenados localmente no `localStorage`, garantindo que você possa acessá-los em futuras sessões.
+Uma extensão para o Google Chrome que permite aos usuários salvar, visualizar e gerenciar URLs. A extensão permite que você adicione URLs manualmente ou diretamente da aba ativa do navegador. Todos os links são armazenados localmente no `localStorage`, garantindo que você possa acessá-los em futuras sessões.
 
 ## Funcionalidades
 
