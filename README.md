@@ -21,7 +21,7 @@ Uma extensão para o Google Chrome que permite aos usuários salvar, visualizar 
 
 2. **Adicionar links**:
    - Clique no ícone da extensão na barra de ferramentas do Chrome.
-   - No popup da extensão, insira um link no campo de texto e clique em "Adicionar" ou clique no botão "Adicionar aba ativa" para adicionar a URL da aba atual.
+   - No popup da extensão, insira um link no campo de texto e clique em "SALVAR" ou clique no botão "SALVAR ABA" para adicionar a URL da aba atual.
 
 3. **Visualizar links**:
    - Todos os links adicionados serão exibidos em uma lista no popup da extensão. Clique em qualquer link para abri-lo em uma nova aba.
