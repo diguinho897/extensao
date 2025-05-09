@@ -48,6 +48,12 @@ Uma extensão para o Google Chrome que permite aos usuários salvar, visualizar 
 4. Envie para o repositório remoto (`git push origin feature/nova-funcionalidade`).
 5. Abra um pull request.
 
+![Ex](printEx1.png)
+![Ex](printEx2.png)
+![Ex](printEx3.png)
+
+
+
 ## Licença
 
 Distribuído sob a licença MIT. Veja o arquivo LICENSE para mais detalhes.
